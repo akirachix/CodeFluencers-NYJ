@@ -76,6 +76,9 @@ function Project(){
            health for both consumers and businesses.
            </p>
        </div>
+       <button className="read-more" onClick={() => setShowModal(false)}>
+              Back
+            </button>
        </div>
        </div>
        </div>

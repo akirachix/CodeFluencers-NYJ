@@ -84,6 +84,11 @@ function Section() {
                   must-read.
                 </p>
               </div>
+              <div>
+              <button className="read-more" onClick={() => setShowModal(false)}>
+              Back
+            </button>
+              </div>
             </div>
           </div>
         </div>
